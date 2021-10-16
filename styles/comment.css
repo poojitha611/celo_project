@@ -18,6 +18,20 @@
 
 body{
 	background-color: rgb(250, 249, 250);
+	/*
+	font-family: 'Fredoka One', cursive;
+	padding-top: 1.5em;
+    padding-bottom: 1em;
+	color: rgb(15, 68, 106);
+    background-color: #fff;
+  font-size: 12pt;
+  font-family: "Fredoka One", cursive;
+  border:none;
+  margin-bottom: 0;
+	border-bottom-width: 2px;
+	border-bottom-style:solid;
+	border-bottom-color:rgba(133,133,133,0.3);
+	*/
 }
 
 
